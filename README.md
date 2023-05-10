@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+This repository contains the culmination of my work efforts at the University of St. Thomas in service of the common good. Across the disciplines of computer science and statistitcs, I've worked to uphold the universities core values in creating exceptional works that serve a multitude of domains. 
+
+First, the St. Paul Crime Database. A collaborative product of my computer science education in web development, the project highlights crime, and the efforts underway to create safer communities through the correct allocation of vital resources. Having access to viual, easily understood data depicting hot spots allow for diverse perspectives to view, interpret, synthesize and produce more effective solutions than what currently exists.
+
+Secondly, the RCDS project. The importance of providing a quality education to students also requires making financial sacrifices for the institution to allow families to afford their children’s tuition. By creating software for the school, we give back to the community and better equip faculty to efficiently assist in providing a quality education to lower income. 
+
+Third, my statistics project on Social Capital. One of the given issues that has been creeping against society in the background has been the decline of social capital - the network of relationships that allow for the proper functioning of society. Our statistics endeavor sought to quanitfy exactly how these relationships develop, and in turn create a predictive model in service of providng real world policy solutions for repairing these societal bonds. 
+
+Finally, [PLACEHOLDER].
